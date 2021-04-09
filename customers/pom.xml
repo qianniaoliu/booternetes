@@ -47,11 +47,11 @@
             <artifactId>r2dbc-h2</artifactId>
             <scope>runtime</scope>
         </dependency>
-        <dependency>
-            <groupId>io.r2dbc</groupId>
-            <artifactId>r2dbc-postgresql</artifactId>
-            <scope>runtime</scope>
-        </dependency>
+<!--        <dependency>-->
+<!--            <groupId>io.r2dbc</groupId>-->
+<!--            <artifactId>r2dbc-postgresql</artifactId>-->
+<!--            <scope>runtime</scope>-->
+<!--        </dependency>-->
         <dependency>
             <groupId>org.springframework.experimental</groupId>
             <artifactId>spring-graalvm-native</artifactId>
